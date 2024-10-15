@@ -2,7 +2,7 @@
   "list": [
     {
       "title": "demo",
-      "path": "demo.mdx"
+      "slug": "demo.mdx"
     }
   ]
 }
